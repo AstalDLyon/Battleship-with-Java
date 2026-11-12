@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/383/stages/2285/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 12 Nov 2026 23:25:31 UTC"
+record: -1

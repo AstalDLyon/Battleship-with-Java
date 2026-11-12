@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/ShipType.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/CoordinateValidator.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Board.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/383/stages/2286/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 12 Nov 2026 23:29:44 UTC"
+record: -1
